@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Carbon Weight Watcher</string>
+    <string name="data">data</string>
+    <string name="refresh">Refresh</string>
+    <string name="ooops_n_weight_watcher_list_not_available">Ooops!!\n Weight Watcher list not available</string>
+    <string name="weight_watcher">Carbon weight watcher</string>
+    <string name="textview">TextView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
